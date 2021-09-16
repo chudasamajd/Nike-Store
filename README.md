@@ -2,4 +2,4 @@
 - This project also include some animation when user select different shoe photos.
 <br>
 <br>
-![](Output.JPG)
+<img src="Output.JPG"/>
