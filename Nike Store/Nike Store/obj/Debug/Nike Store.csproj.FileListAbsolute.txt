@@ -1,0 +1,12 @@
+D:\ASP.net Project\Nike Store\Nike Store\bin\Debug\Nike Store.exe.config
+D:\ASP.net Project\Nike Store\Nike Store\bin\Debug\Nike Store.exe
+D:\ASP.net Project\Nike Store\Nike Store\bin\Debug\Nike Store.pdb
+D:\ASP.net Project\Nike Store\Nike Store\bin\Debug\Guna.UI2.dll
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.csproj.AssemblyReference.cache
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike_Store.Form1.resources
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike_Store.Properties.Resources.resources
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.csproj.GenerateResource.cache
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.csproj.CoreCompileInputs.cache
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.csproj.CopyComplete
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.exe
+D:\ASP.net Project\Nike Store\Nike Store\obj\Debug\Nike Store.pdb
